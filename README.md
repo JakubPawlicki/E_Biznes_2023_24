@@ -26,3 +26,4 @@ Zadanie 2 Scala
 ✅ 5.0 wymaganie 5 [Link do commita](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/bdf326654c6cb6e0e70bf9b30b2d83196cce48f9)
 
 Kod: zad_02_scala
+Link do demo: https://youtu.be/c_JYNASfe3o
