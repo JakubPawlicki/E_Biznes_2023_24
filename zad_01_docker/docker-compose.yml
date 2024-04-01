@@ -1,0 +1,5 @@
+
+
+services:
+  HelloWorld:
+    image: hello_world_app
