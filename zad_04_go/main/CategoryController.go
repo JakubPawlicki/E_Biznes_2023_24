@@ -19,6 +19,7 @@ func (cc CategoryController) GetAllCategories(c echo.Context) error {
 func (cc CategoryController) GetCategory(c echo.Context) error {
 	var category Category
 	cc.db.Scopes(CategoryByID(c.Param("id"))).First(&category)
+	cc.db.Model(&category).Preload("Products").Find(&category)
 	return c.JSON(http.StatusOK, category)
 }
 
@@ -73,8 +74,10 @@ func (cc CategoryController) RemoveProductFromCategory(c echo.Context) error {
 	return c.JSON(http.StatusOK, category)
 }
 
+// Scope
 func CategoryByID(id string) func(db *gorm.DB) *gorm.DB {
 	return func(db *gorm.DB) *gorm.DB {
 		return db.Where("id = ?", id)
 	}
 }
+
