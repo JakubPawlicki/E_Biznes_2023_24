@@ -40,7 +40,7 @@ Zadanie 4 GO
 
 ✅ 4.5 wymaganie 4 
 
-✅ 5.0 wymaganie 5 [Link do commita (wszystko w jednym)](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/bdf326654c6cb6e0e70bf9b30b2d83196cce48f9)
+✅ 5.0 wymaganie 5 [Link do commita (wszystko w jednym)](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/388374c4acdc73412e8fc5b6eb9752dddb0aa482)
 
 Kod: [zad_04_go](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_04_go) \
 Link do demo: https://youtu.be/SjD60ZTqZmo
