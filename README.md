@@ -30,6 +30,21 @@ Zadanie 2 Scala
 Kod: [zad_02_scala](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_02_scala) \
 Link do demo: https://youtu.be/c_JYNASfe3o
 
+Zadanie 3 Kotlin
+
+✅ 3.0 wymaganie 1 
+
+✅ 3.5 wymaganie 2 
+
+✅ 4.0 wymaganie 3 
+
+✅ 4.5 wymaganie 4 [Link do commita (wszystko w jednym)](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/ea01a0cadc76ad9f81739bb004d59f6b8202be16)
+
+❌ 5.0 wymaganie 5
+
+Kod: [zad_03_kotlin](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_03_kotlin) \
+Link do demo: https://youtu.be/nj73qJkGtvo
+
 Zadanie 4 GO
 
 ✅ 3.0 wymaganie 1 
