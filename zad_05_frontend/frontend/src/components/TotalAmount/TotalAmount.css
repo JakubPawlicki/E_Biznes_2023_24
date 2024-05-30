@@ -1,0 +1,34 @@
+.cart-total-amount {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.cart-total-amount p.text {
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.cart-total-amount p.price {
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.buy-btn {
+    background: none;
+    border-radius: 2px;
+    height: 70%;
+    padding: 10px;
+    text-align: center;
+    /*align-content: center;*/
+    /*justify-content: right;*/
+    font-size: 30px;
+}

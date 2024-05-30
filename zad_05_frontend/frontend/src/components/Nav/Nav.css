@@ -1,0 +1,68 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    box-shadow: 0 1px 3px -2px black;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nav-menu li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    cursor: pointer;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-menu li.chosen a{
+    color: blue;
+}
+
+.nav-cart {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.nav-cart a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-cart-count {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    margin-top: -40px;
+    margin-left: 20px;
+    border-radius: 15px;
+    font-size: 15px;
+    background: blue;
+    color: white;
+}
+
+hr {
+    color: blue;
+}

@@ -1,0 +1,15 @@
+
+services:
+  backend:
+    image: test:test
+    ports:
+      - "9000:9000"
+      
+  frontend:
+    image: front
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+
