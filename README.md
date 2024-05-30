@@ -59,3 +59,18 @@ Zadanie 4 GO
 
 Kod: [zad_04_go](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_04_go) \
 Link do demo: https://youtu.be/SjD60ZTqZmo
+
+Zadanie 5 Frontend
+
+✅ 3.0 wymaganie 1 
+
+✅ 3.5 wymaganie 2 
+
+✅ 4.0 wymaganie 3 
+
+✅ 4.5 wymaganie 4 
+
+✅ 5.0 wymaganie 5 [Link do commita (wszystko w jednym)](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/b46f9b9912ccd845e8ad62e63dad9ecf126d8a80)
+
+Kod: [zad_05_frontend](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_05_frontend) \
+Link do demo: https://youtu.be/K7bPTtKPMYs
