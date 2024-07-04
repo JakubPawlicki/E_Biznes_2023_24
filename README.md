@@ -74,3 +74,22 @@ Zadanie 5 Frontend
 
 Kod: [zad_05_frontend](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_05_frontend) \
 Link do demo: https://youtu.be/K7bPTtKPMYs
+
+Zadanie 7 Sonar
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JakubPawlicki_E_Biznes_2023_24&metric=bugs)](https://sonarcloud.io/dashboard?id=JakubPawlicki_E_Biznes_2023_24)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JakubPawlicki_E_Biznes_2023_24&metric=code_smells)](https://sonarcloud.io/dashboard?id=JakubPawlicki_E_Biznes_2023_24)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JakubPawlicki_E_Biznes_2023_24&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=JakubPawlicki_E_Biznes_2023_24)
+
+
+✅ 3.0 wymaganie 1 
+
+✅ 3.5 wymaganie 2 
+
+✅ 4.0 wymaganie 3 
+
+✅ 4.5 wymaganie 4 
+
+❌ 5.0 wymaganie 5  TBD
+
+
