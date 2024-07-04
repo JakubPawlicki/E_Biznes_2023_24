@@ -8,6 +8,10 @@ import (
 	"net/http"
 )
 
+const (
+	CategoryIDPath = "/categories/:id"
+)
+
 func connectToDB() *gorm.DB {
 	db, _ := gorm.Open(sqlite.Open("database.db"), &gorm.Config{})
 	if err := db.AutoMigrate(&Product{}); err != nil {
@@ -49,10 +53,10 @@ func main() {
 	e.DELETE("/carts/:cartId/:productId", cc.deleteProductFromCart)
 	//Category routing
 	e.GET("/categories", catcontroller.GetAllCategories)
-	e.GET("/categories/:id", catcontroller.GetCategory)
+	e.GET(CategoryIDPath, catcontroller.GetCategory)
 	e.POST("/categories", catcontroller.CreateCategory)
-	e.PUT("/categories/:id", catcontroller.UpdateCategory)
-	e.DELETE("/categories/:id", catcontroller.DeleteCategory)
+	e.PUT(CategoryIDPath, catcontroller.UpdateCategory)
+	e.DELETE(CategoryIDPath, catcontroller.DeleteCategory)
 	e.POST("/categories/:categoryId/:productId", catcontroller.AddProductToCategory)
 	e.DELETE("/categories/:categoryId/:productId", catcontroller.RemoveProductFromCategory)
 
