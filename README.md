@@ -90,11 +90,10 @@ Zadanie 7 Sonar
 
 ✅ 4.5 wymaganie 4 
 
+❌ 5.0 wymaganie 5  TBD
+
 Link do demo dla lintera dla GO: https://youtu.be/JCBW3XufMHI \
 Demo dla oceny 3.5 i wyższych to tak naprawdę badge które znajdują się powyżej
-
-
-❌ 5.0 wymaganie 5  TBD
 
 Zadanie 8 Oauth2
 
