@@ -92,4 +92,20 @@ Zadanie 7 Sonar
 
 ❌ 5.0 wymaganie 5  TBD
 
+Zadanie 7 Oauth2
+
+✅ 3.0 wymaganie 1 
+
+✅ 3.5 wymaganie 2 
+
+✅ 4.0 wymaganie 3 
+
+✅ 4.5 wymaganie 4 
+
+✅ 5.0 wymaganie 5 [Link do commita (wszystko w jednym)](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/c52a59e459d15a7c8bc2eb0e6e0bd1ba2bfc4fe5)
+
+Link do demo 3.0 i 3.5: https://youtu.be/h3bNCycMxMQ
+Link do demo 4.0 i 5.0 (cz.1): https://youtu.be/oT9RCLzZnpw
+Link do demo 4.5 i 5.0 (cz.2): https://youtu.be/0XUXynQqLg4
+
 
