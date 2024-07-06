@@ -1,0 +1,28 @@
+run:
+  timeout: 5m
+
+issues:
+  exclude-use-default: false
+
+  exclude:
+    - "Error return value of .(Should|Expect|Require). is not checked"
+    - "could not import C (cgo preprocessing failed)"
+
+linters-settings:
+  errcheck:
+    # report about not checking errors in type assertions: `a := b.(MyType)`
+    check-type-assertions: true
+    # report about assignment of errors to blank identifier: `num, _ := strconv.Atoi(numStr)`
+    check-blank: true
+
+  govet:
+    check-shadowing: true
+
+  staticcheck:
+    checks: ["all"]
+linters: 
+  # Disable specific linter
+  # https://golangci-lint.run/usage/linters/#disabled-by-default
+  disable:
+    - structcheck
+    - varcheck
