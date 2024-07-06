@@ -82,13 +82,17 @@ Zadanie 7 Sonar
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JakubPawlicki_E_Biznes_2023_24&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=JakubPawlicki_E_Biznes_2023_24)
 
 
-✅ 3.0 wymaganie 1 
+✅ 3.0 wymaganie 1 [Link do commita](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/4caa80831af2ed54ea8cc5e8f0edc167942d3d17)
 
 ✅ 3.5 wymaganie 2 
 
 ✅ 4.0 wymaganie 3 
 
 ✅ 4.5 wymaganie 4 
+
+Link do demo dla lintera dla GO: https://youtu.be/JCBW3XufMHI \
+Demo dla oceny 3.5 i wyższych to tak naprawdę badge które znajdują się powyżej
+
 
 ❌ 5.0 wymaganie 5  TBD
 
