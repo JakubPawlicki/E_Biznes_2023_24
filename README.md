@@ -92,7 +92,7 @@ Zadanie 7 Sonar
 
 ❌ 5.0 wymaganie 5  TBD
 
-Zadanie 7 Oauth2
+Zadanie 8 Oauth2
 
 ✅ 3.0 wymaganie 1 
 
