@@ -112,4 +112,18 @@ Link do demo 4.0 i 5.0 (cz.1): https://youtu.be/oT9RCLzZnpw \
 Link do demo 4.5 i 5.0 (cz.2): https://youtu.be/0XUXynQqLg4 \
 Kod : [zad_08_oauth2](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_08_oauth2)
 
+Zadanie 10 Chmura/CI
 
+✅ 3.0 wymaganie 1 
+
+✅ 3.5 wymaganie 2 
+
+✅ 4.0 wymaganie 3 
+
+✅ 4.5 wymaganie 4 
+
+❌ 5.0 wymaganie 5  TBD
+
+Link do repozytorium w którym zostało zrealizowane zadanie: https://github.com/JakubPawlicki/EB_zad_10 \
+Link do frontendu: https://victorious-moss-09004da03.5.azurestaticapps.net/ \
+Link do backendu: eb-zad10-backend.azurewebsites.net
