@@ -31,11 +31,7 @@ export const Loading = () => {
             </div>
         );
     }
-    else {
-        {cart.forEach(item => {
-            removeItemFromCart(item.id)
-        })
-        }
+    else {cart.forEach(item => removeItemFromCart(item.id))}
         return <Navigate to="/dziekujemy"></Navigate>
     }
 };
