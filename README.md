@@ -112,6 +112,21 @@ Link do demo 4.0 i 5.0 (cz.1): https://youtu.be/oT9RCLzZnpw \
 Link do demo 4.5 i 5.0 (cz.2): https://youtu.be/0XUXynQqLg4 \
 Kod : [zad_08_oauth2](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_08_oauth2)
 
+Zadanie 9 Chatbot
+
+✅ 3.0 wymaganie 1 
+
+✅ 3.5 wymaganie 2 
+
+✅ 4.0 wymaganie 3 [Link do commita (wszystko w jednym)](https://github.com/JakubPawlicki/E_Biznes_2023_24/commit/0766a7910fb10553219ec7e6e9168f217d0cbe05)
+
+❌ 4.5 wymaganie 4 
+
+❌ 5.0 wymaganie 5
+
+Kod: [zad_09_chatbot](https://github.com/JakubPawlicki/E_Biznes_2023_24/tree/master/zad_09_chatbot) \
+Link do demo: https://youtu.be/YShwplOIG3M
+
 Zadanie 10 Chmura/CI
 
 ✅ 3.0 wymaganie 1 
