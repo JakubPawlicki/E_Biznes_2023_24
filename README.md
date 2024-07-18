@@ -142,3 +142,4 @@ Zadanie 10 Chmura/CI
 Link do repozytorium w którym zostało zrealizowane zadanie: https://github.com/JakubPawlicki/EB_zad_10 \
 Link do frontendu: https://victorious-moss-09004da03.5.azurestaticapps.net/ \
 Link do backendu: eb-zad10-backend.azurewebsites.net
+
