@@ -9,9 +9,7 @@ export function Nav() {
     const [menu, setMenu] = useState("");
 
     const handleCartKeyDown = (event) => {
-        if (event.key === 'Enter' || event.key === ' ') {
-            // Handle keyboard event here if needed
-        }
+        if (event.key === 'Enter' || event.key === ' ') {}
     };
 
     return (
