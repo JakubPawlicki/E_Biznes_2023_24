@@ -152,7 +152,7 @@ Zadanie 10 Chmura/CI
 
 ✅ 4.5 wymaganie 4 
 
-✅ 5.0 wymaganie 5  TBD
+✅ 5.0 wymaganie 5
  
 [![Azure Static Web Apps CI/CD](https://github.com/JakubPawlicki/EB_zad_10/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/JakubPawlicki/EB_zad_10/actions/workflows/ci_cd.yml) \
 Link do repozytorium w którym zostało zrealizowane zadanie: https://github.com/JakubPawlicki/EB_zad_10 \
